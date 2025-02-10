@@ -1,0 +1,12 @@
+fastapi~=0.115.8
+uvicorn
+pydantic[dotenv]~=2.10.6
+pydantic-settings
+pydantic[email]
+requests
+
+nats-py
+
+starlette~=0.45.3
+sqlalchemy
+asyncpg
